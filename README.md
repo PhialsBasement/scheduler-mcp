@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/phialsbasement-scheduler-mcp-badge.png)](https://mseep.ai/app/phialsbasement-scheduler-mcp)
+
 # MCP Scheduler
 
 A robust task scheduler server built with Model Context Protocol (MCP) for scheduling and managing various types of automated tasks.
